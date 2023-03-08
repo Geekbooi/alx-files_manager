@@ -1,4 +1,3 @@
-env_loader.js 
 import { existsSync, readFileSync } from 'fs';
 
 /**

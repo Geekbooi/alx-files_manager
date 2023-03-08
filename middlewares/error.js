@@ -1,4 +1,4 @@
-* eslint-disable no-unused-vars */
+/* eslint-disable no-unused-vars */
 import { Request, Response, NextFunction } from 'express';
 
 /**
